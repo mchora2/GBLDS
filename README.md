@@ -1,7 +1,9 @@
 # GBLDS
 
 Gesture Based Light Design System
+
 ECE 445
+
 A project by Mateusz Chorazy, Debjit Das, and Ian Fitzgerald
 
 This project would not have been possible without Debjit's creativity and artistic vision. 
